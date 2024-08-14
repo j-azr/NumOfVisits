@@ -1,0 +1,17 @@
+{
+    "name": "express-cookie-app",
+    "version": "1.0.0",
+    "description": "A simple Express application with cookie parsing for visit tracking.",
+    "main": "numOfVisits.js",
+    "scripts": {
+      "start": "node numOfVisits.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "cookie-parser": "^1.4.6"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": "ISC"
+  }
+  
